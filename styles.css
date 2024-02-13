@@ -1,0 +1,117 @@
+body
+{
+    padding: 0px;
+}
+
+button
+{
+
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px -200px;
+    padding: -20px 30px;
+}
+
+.hi
+{
+    top: 300px;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    background-image: url(images.png);
+}
+
+.Yes-Button
+{    
+    right: 54%;
+    width: 160px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+        
+}
+
+.Yes-Button:hover
+{
+    background-position: 100% 0;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.Yes-Button:focus
+{
+    outline: none;
+}
+
+.Yes-Button.a
+{
+    background-image: linear-gradient(to right,#ed6ea0,#ec8c69,#f7186a,#fbb03b);
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+}
+
+.No-Button
+{    
+    right: 34%;
+    width: 160px;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+        
+}
+
+.No-Button:hover
+{
+    background-position: 100% 0;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+}
+
+.No-Button:focus
+{
+    outline: none;
+}
+
+.No-Button.b
+{
+    background-image: linear-gradient(to right,#ed6ea0,#ec8c69,#f7186a,#fbb03b);
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+}
+
+.na
+{
+    font-family: "Montserrat Alternates", sans-serif;
+    color: #ed6ea0;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.buttons
+{
+    margin-top: 150px;
+    
+}

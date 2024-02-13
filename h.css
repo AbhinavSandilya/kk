@@ -1,0 +1,170 @@
+body
+{
+    padding: 0;
+    margin: 0;
+}
+
+.imagg
+{
+    height: 725px;
+    width: 1536px;
+    opacity: 70%;
+    z-index: -2px;
+}
+
+.id
+{
+    top: 100px;
+    left: 100px;
+    position: absolute;
+}
+
+.beb
+{
+    font-family: 'Miss Fajardose', cursive;
+    text-size-adjust: 100px;
+}
+
+.hh
+{
+    padding: 20px;
+}
+
+.center-one
+{
+    
+    
+    margin: 20px;
+    left: 100px;
+    margin-left: 500px;
+    
+}
+
+.one
+{
+    
+    padding: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 700px;
+    
+}
+
+.oneimg
+{
+    height: 300px;
+    width: 225px;
+}
+
+.center-two
+{
+    
+   
+    margin: 20px;
+    left: 100px;
+}
+
+.two
+{
+    padding: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 700px;   
+}
+
+.twoimg
+{
+    margin-left: 475px;
+    height: 300px;
+    width: 225px;   
+}
+
+.center-three
+{
+    
+    
+    margin: 20px;
+    left: 100px;
+}
+
+.three
+{
+    padding: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 700px;   
+}
+
+.threeimg
+{
+    height: 300px;
+    width: 225px;   
+}
+
+.center-four
+{
+    
+    
+    margin: 20px;
+    left: 100px;
+}
+
+.four
+{
+    padding: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 700px;   
+}
+
+.fourimg
+{
+    margin-left: 392px;
+    height: 200px;
+    width: 307.08px;   
+}
+
+.center-five
+{
+    
+    
+    margin: 20px;
+    left: 100px;
+}
+
+.five
+{
+    padding: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 700px;   
+}
+
+.fiveimg
+{
+    height: 201px;
+    width: 268px;   
+}
+
+.center-six
+{
+    
+    
+    margin: 20px;
+    left: 100px;
+}
+
+.six
+{
+    padding: 20px;
+    background-color: blueviolet;
+    height: 300px;
+    width: 700px;   
+}
+
+.siximg
+{
+    margin-left: 510px;
+    height: 300px;
+    width: 186.375px;   
+}
